@@ -1,1 +1,1 @@
-Create a library folder and put L1 L2 L3 in it
+Create a new library folder, move all the files in the LIb folder, and extract them.
